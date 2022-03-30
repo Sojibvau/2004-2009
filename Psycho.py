@@ -1,34 +1,6 @@
 #DECODE BY ZIHAD
-import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
-os.system('rm -rf .txt')
-for n in range(90000):
-
-    nmbr = random.randint(111111111,999999999)
-    
-    sys.stdout = open('.txt', 'a')
-
-    print(nmbr)
-
-    sys.stdout.flush()
-    
-try:
-    import requests
-except ImportError:
-    os.system('pip2 install mechanize')
-    
-try:
-    import mechanize
-except ImportError:
-    os.system('pip2 install request')
-    time.sleep(1)
-    os.system('Then type: python2 boss')
-
-import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
-from multiprocessing.pool import ThreadPool
-from requests.exceptions import ConnectionError
-from mechanize import Browser
-
-
+import 
+os.system('rm - .
 reload(sys)
 sys.setdefaultencoding('utf8')
 br = mechanize.Browser()
