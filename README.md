@@ -1,4 +1,4 @@
-<a href="https://github.com/PSYCHO-PICCHI/"><img src="" alt="Screenshot-2022-0327-195405" border="0"></a>
+<a href="https://github.com/PSYCHO-PICCHI/"><img src="https://ibb.co/TYwDjGN" alt="Screenshot-2022-0327-195405" border="0"></a>
 
 ## <b>installation</b>
 ```
