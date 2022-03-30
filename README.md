@@ -9,7 +9,7 @@
 🔗 pip2 install requests
 🔗 pip2 install mechanize
 🔗 pkg install git
-🔗 git clone https://github.com/PSYCHO-PICCHI/2004-2009.git
+🔗 git clone https://github.com/Sojibvau/2004-2009
 🔗 cd 2004-2009
 🔗 python2 Psycho.py
 
